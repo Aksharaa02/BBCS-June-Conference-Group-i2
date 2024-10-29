@@ -47,7 +47,7 @@ print(X_test_scaled)
 #testing results
 print("\nPredictions on X_test:")
 print(y_pred)
-#Y predicions
+#Y predictions
 print("\nActual y_test:")
 print(y_test.values)
 #results
